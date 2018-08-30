@@ -1,0 +1,31 @@
+What is #include<stdio.h>?
+Its an header file.
+
+What is printf?
+Its an output function
+1.how is this function declared?
+Ans :  its declared in stdio.h which is a header file
+2.why is printf used ?
+Ans :  it is used to display the output
+3.Name some variable you can use to print?
+Ans:char,int,void,float etc
+4.a program to print out a person's age ?
+Ans:  printf("Your age is %d", age);
+5. Which all  programming langauages use printf?
+Ans : c,c++,c#,java,matlab etc
+6.
+
+
+What is main ?
+Ans : it is a entry point for any c program. When the execution is started , it directly goes to main().
+
+Why should you learn touch typing on a qwerty keyboard?
+Ans : it will be useful so that we can  type fast without looking towards the keyboard.
+         The work will be done faster (i.e. it will save time)
+
+
+
+How will you learn touch typing on a qwerty keyboard?
+Ans : there are many websites and youtube videos for beginners 
+ And by practise you will gain the perfection is touch typing on qwerty keyboard
+ 
